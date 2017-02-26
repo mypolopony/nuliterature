@@ -1,4 +1,4 @@
-## Nuliterature
+## Nuliterature ![tok-tok](images/noun_no-talking_147990.png)
 
 ### Intro
 
@@ -28,3 +28,9 @@ We would like to create a psychological profile of our authors and news sources.
 There is no shortage of these kinds of personality tests, and they're generally distained, but I hope to try as much as the MMPI-2, at least, as well as some others. Unfortunately, these tests cost many dollars, so I cannot post the questions here in plain text, but I'll do my best to portray the assessment as accurately as possible while still adhering to licensing restrictions.
 
 Having said that, if you're interested in digitizing neuropsych tests, do inquire within :)
+
+
+### Mechanics
+Let's use MongoDB!
+
+It should be obvious that this is a pretty basic / tedious ETL task. And. So. Yeah. I use BeautifulSoup and RegEx. Feel free to improvise as needed.
