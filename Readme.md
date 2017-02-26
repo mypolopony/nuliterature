@@ -1,4 +1,4 @@
-## Nuliterature ![tok-tok](images/noun_no-talking_147990.png)
+## Nuliterature ![tok-tok](images/noun_no-talking_147990.png =75px)
 
 ### Intro
 
