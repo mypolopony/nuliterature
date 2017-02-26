@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+*.pyc
+evaluations/
+env/
+profiles/
+!profiles/**/Readme.md
