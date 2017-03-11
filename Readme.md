@@ -33,4 +33,4 @@ Having said that, if you're interested in digitizing neuropsych tests, do inquir
 ### Mechanics
 Let's use MongoDB!
 
-It should be obvious that this is a pretty basic / tedious ETL task. And. So. Yeah. I use BeautifulSoup and RegEx. Feel free to improvise as needed.
+It should be obvious that this is a pretty basic / tedious ETL task. And. So. Yeah. I use BeautifulSoup and RegEx and other tools in the Mickey Mouse armamentarium. Feel free to improvise as needed.
